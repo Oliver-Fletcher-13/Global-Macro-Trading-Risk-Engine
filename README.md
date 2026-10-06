@@ -177,7 +177,7 @@ The project also includes:
 
 ---
 
-# Key interview lesson
+# Key lesson
 
 The project is **not** presented as a machine that predicts markets.
 
