@@ -30,9 +30,9 @@ The core historical data covers **1998–2025**, with the main strategy back-tes
 
 ### The key finding
 
-The strategy did **not** beat the S&P 500 over the full sample. Instead, its objective was to test whether a rules-based regime approach could reduce risk and drawdown.
+The strategy did **not** beat the S&P 500 over the full sample. Instead what I questioned was whether a rules-based regime approach could reduce risk and drawdown.
 
-The result was a clear trade-off: the strategy had materially lower historical volatility and drawdown, but also captured less upside during strong equity markets.
+The result was a clear trade-off: the strategy had lower historical volatility and drawdown, but also captured less upside during strong equity markets.
 
 That trade-off is one of the most important lessons from the project.
 
@@ -181,9 +181,9 @@ The project also includes:
 
 The project is **not** presented as a machine that predicts markets.
 
-The strongest conclusion is:
+Instead..
 
-> **I built a framework for making investment decisions under uncertainty, then tested it honestly enough to identify where it worked and where it failed.**
+> **I built a framework for making investment decisions under uncertainty, then back tested it sufficiently to identify where it worked and where it failed.**
 
 One of the most useful findings was the trade-off between downside protection and upside capture: defensive positioning reduced losses in difficult periods, but it also meant missing part of subsequent recoveries.
 
